@@ -4,6 +4,9 @@
 
 This API provides a suite of Natural Language Processing (NLP) functionalities, including text summarization, generation, classification, completion, keyword extraction, language detection, translation, topic modeling, and question answering. The API is designed to be versatile and user-friendly, offering developers powerful tools to integrate advanced NLP capabilities into their applications.
 
+### API domain
+```https://sdk.qsystems.ai/```
+
 ### Authentication
 
 Authentication is required for all endpoints. Use an API key in the header of your requests:
