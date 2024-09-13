@@ -16,7 +16,8 @@ Please contact the API provider to obtain your API key.
 
 ### Guardrails
 
-While not explicitly mentioned in the schema, it's recommended to implement guardrails to ensure the safe, secure, and ethical use of these NLP functionalities. These guardrails should protect against various types of violations, maintain content quality, prevent malicious usage, and comply with ethical guidelines.
+Default guardrails are implemented in both input and output contents. 
+Configurable guardrails option coming soon in API.
 
 ## Available Endpoints
 
@@ -401,4 +402,3 @@ While not explicitly mentioned in the schema, it's recommended to implement guar
 }
 ```
 
-This documentation provides a comprehensive overview of the API's capabilities and how to use each endpoint. Users can refer to this guide to understand the required parameters, request formats, and expected responses for each NLP functionality offered by the API.
